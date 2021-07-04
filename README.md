@@ -8,7 +8,9 @@
 - Aprender mais sobre HTML e CSS
 - Boas práticas de frontend
 
-## Aulas
+## SEÇÕES
+
+## 1 Introdução do curso
 
 - [x] Introduducão ao curso
 - [x] Apresentação do curso
@@ -21,7 +23,13 @@
 - [x] Primeiro projeto com SASS
 - [x] Como debugar o código SASS
 - [x] Como tirar o maximo proveito deste curso
+
+# Conceitos fundamentais de SASS e SCSS
+
+- [x] Introdução
+- [x] Diferenças de sintaxe
 - [x] Projeto com SASS
 - [x] Projeto com SCSS
-
 - [x] Comentarios no SASS
+- [x] Gerando CSS minificadoa partir do SASS
+- [x] Conclusão da seção
