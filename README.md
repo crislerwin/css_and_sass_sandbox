@@ -21,3 +21,7 @@
 - [x] Primeiro projeto com SASS
 - [x] Como debugar o código SASS
 - [x] Como tirar o maximo proveito deste curso
+- [x] Projeto com SASS
+- [x] Projeto com SCSS
+
+- [x] Comentarios no SASS
