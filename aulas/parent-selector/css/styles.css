@@ -41,32 +41,4 @@ a:hover {
   color: red;
 }
 
-.spacing {
-  padding: 200px;
-}
-
-.btn {
-  padding: 10px 20px;
-  border: 1px solid blue;
-  color: white;
-  border-radius: #fff;
-  background-color: blue;
-  margin: 5px;
-  cursor: pointer;
-}
-.btn:hover {
-  background-color: transparent;
-  color: blue;
-}
-.btn:hover-success {
-  background-color: green;
-  border-color: green;
-  color: red;
-}
-.btn-danger {
-  background-color: red;
-  border-color: red;
-  color: red;
-}
-
 /*# sourceMappingURL=styles.css.map */

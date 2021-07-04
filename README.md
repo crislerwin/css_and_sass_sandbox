@@ -8,9 +8,9 @@
 - Aprender mais sobre HTML e CSS
 - Boas práticas de frontend
 
-## SEÇÕES
+# SEÇÕES
 
-## 1 Introdução do curso
+## Introdução do curso de SASS
 
 - [x] Introduducão ao curso
 - [x] Apresentação do curso
@@ -24,7 +24,7 @@
 - [x] Como debugar o código SASS
 - [x] Como tirar o maximo proveito deste curso
 
-# Conceitos fundamentais de SASS e SCSS
+## Conceitos fundamentais de SASS e SCSS
 
 - [x] Introdução
 - [x] Diferenças de sintaxe
@@ -33,3 +33,12 @@
 - [x] Comentarios no SASS
 - [x] Gerando CSS minificadoa partir do SASS
 - [x] Conclusão da seção
+
+## Regras de Estilização com SASS/SCSS
+
+- [x] Introdução a seção
+- [x] Conhecendo o nesting
+- [x] Nesting com lista
+- [x] Nesting com combinators
+- [x] Parent selector
+- [x] Parent selector com sufixo
