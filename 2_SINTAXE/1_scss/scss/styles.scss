@@ -1,0 +1,21 @@
+$bg-color: rgb(243, 222, 222);
+$title-background: #333;
+$main-color: rgb(253, 241, 241);
+
+.container {
+  background-color: $bg-color;
+  padding: 20px;
+}
+
+#title {
+  background-color: $title-background;
+  color: $main-color;
+  text-align: center;
+  padding: 10px;
+}
+
+.container-bottom {
+  background-color: blue;
+  padding: 50px;
+  text-align: center;
+}
