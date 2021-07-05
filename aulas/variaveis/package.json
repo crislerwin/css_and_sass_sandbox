@@ -1,0 +1,9 @@
+{
+  "name": "variaveis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass --watch ./sass/styles.sass:css/styles.css "
+  }
+}
