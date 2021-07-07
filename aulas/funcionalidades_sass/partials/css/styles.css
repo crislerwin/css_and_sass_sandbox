@@ -1,0 +1,38 @@
+.btn {
+  background-color: white;
+  color: blue;
+  border-radius: 10px;
+  margin: 12px;
+}
+
+body {
+  margin: 20px;
+}
+
+.p-esp {
+  color: red;
+  background-color: yellow;
+  padding: 10px;
+  border: 1px solid red;
+}
+.p-esp:hover {
+  border-color: blue;
+  color: white;
+  cursor: pointer;
+}
+
+h2 {
+  color: red;
+  background-color: yellow;
+  padding: 10px;
+  border: 1px solid red;
+  border-color: green;
+  color: green;
+}
+h2:hover {
+  border-color: blue;
+  color: white;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=styles.css.map */
