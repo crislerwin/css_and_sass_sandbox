@@ -1,19 +1,6 @@
 @import 'variables'
 @import 'button'
-
-@mixin special
-    color: red
-    background-color: yellow
-    padding: 10px
-    border: 1px solid red
-    &:hover
-        border-color: blue
-        color: white
-        cursor: pointer
-
-@mixin green()
-    border-color: green
-    color: green
+@import 'mixins'
     
 body 
     margin: 20px
@@ -24,4 +11,16 @@ body
 h2
     @include special
     @include green
+
+.esp-menor
+    @include espacamento(10px, 10px) 
+    @include custom-border(solid, red)
+
+.esp-medio
+    @include espacamento(15px, 15px)
+    @include custom-border(dotted, blue, 4px)
+
+.esp-maior
+    @include espacamento(25px, 25px)
+    @include custom-border(double, gold, 4px)
 

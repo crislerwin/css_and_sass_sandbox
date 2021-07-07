@@ -35,4 +35,22 @@ h2:hover {
   cursor: pointer;
 }
 
+.esp-menor {
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid red;
+}
+
+.esp-medio {
+  padding: 15px;
+  margin: 15px;
+  border: 4px dotted blue;
+}
+
+.esp-maior {
+  padding: 25px;
+  margin: 25px;
+  border: 4px double gold;
+}
+
 /*# sourceMappingURL=styles.css.map */
