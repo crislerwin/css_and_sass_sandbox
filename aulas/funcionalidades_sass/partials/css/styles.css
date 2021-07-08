@@ -39,12 +39,16 @@ h2:hover {
   padding: 10px;
   margin: 10px;
   border: 1px solid red;
+  color: #000;
+  background: #ffff;
 }
 
 .esp-medio {
   padding: 15px;
   margin: 15px;
   border: 4px dotted blue;
+  color: #000;
+  background: #321;
 }
 
 .esp-maior {
